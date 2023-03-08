@@ -167,3 +167,14 @@ p {
 .hero-img{
     background-color: white; url"https://th.bing.com/th/id/OIP.nDLbyYe4eDS61Q4kY1v5QwHaHa?w=159&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
 }
+
+body {
+  background: purple;
+}
+
+.banner {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 50%;
+}
