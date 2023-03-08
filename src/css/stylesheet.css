@@ -1,6 +1,6 @@
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:black;
+    color:rgb(13, 1, 1);
   }
   
   h1,
@@ -38,7 +38,7 @@ p {
   }
   
   .container {
-    position: fixed;
+    position: relative;
     width: min-content;
     margin: 5px;
     display: flex;
@@ -59,7 +59,7 @@ p {
     margin-top: 8.5px;
     margin-bottom: 0px;
     padding-bottom: 360px;
-    background:url(https://th.bing.com/th/id/R.3c52281d3b74f3b8e4f616b8be0695dc?rik=863fJn7h2JDUxg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fOcean-Landscape-HD-Background-With-Beautiful.jpg&ehk=akPcnKITtmGKCBrUpgQ1EcVjVyfmauwxnHzCfd2VsgI%3d&risl=&pid=ImgRaw&r=0);
+    background:url(https://th.bing.com/th/id/R.d300990952aff2a98da3abc5c24a2004?rik=NmPPvCYEPaMmcA&pid=ImgRaw&r=0);
 
   
 
@@ -103,7 +103,7 @@ p {
 
   .wrapper{
     max-width: 400px;
-    width: 100%;
+    height: 90%;
     background: lightblue;
     margin: 20px;
     padding-left: 30px;
